@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seekay
+- Hi, I’m @seekay 👋
 
 - I use this to share and backup the scripts I´m using in Wallpaper Engine.
 
